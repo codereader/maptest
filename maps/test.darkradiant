@@ -2,13 +2,13 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "35" } 
+		KeyValue { "EditTimeInSeconds" "47" } 
 		KeyValue { "LastCameraAngle" "0 0 0" } 
 		KeyValue { "LastCameraPosition" "0 0 30" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 35 }
+		TotalSecondsEdited { 47 }
 	}
 	Layers
 	{
